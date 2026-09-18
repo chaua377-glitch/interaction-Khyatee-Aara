@@ -1,11 +1,4 @@
 body {
-  background-color: rgb(220, 11, 11);
+  background-color: rgb(238, 108, 108);
   min-height: 100vh;
-}
-img{
-  width: 200px;
-  height: 250px;
-}
-h1{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
